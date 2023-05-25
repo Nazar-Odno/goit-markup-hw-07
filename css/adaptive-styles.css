@@ -762,7 +762,6 @@ transition: color var(--transition-effect);
 
 .hero-policy {
     display: flex;
-    align-items: center;
     
 }
 
