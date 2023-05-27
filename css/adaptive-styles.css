@@ -534,14 +534,6 @@ transition: color var(--transition-effect);
   margin-bottom: 72px;
 }
 
-@media screen and (min-width: 319px) {
-  .main-title {
-  font-size: 36px;
-  line-height: 1.11;
-  max-width: 0px;
-}
-}
-
 @media screen and (min-width: 428px) {
   .main-title {
   font-size: 36px;
