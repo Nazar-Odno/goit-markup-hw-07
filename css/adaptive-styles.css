@@ -781,7 +781,7 @@ transition: color var(--transition-effect);
 
 .hero-label-checkbox {
   margin-bottom: 0;
-  font-size: 24px;
+  font-size: 2px;
 }
 
 .hero-policy::before {
