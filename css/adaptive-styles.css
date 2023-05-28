@@ -533,6 +533,7 @@ transition: color var(--transition-effect);
   margin-right: auto;
   margin-bottom: 72px;
   max-width: 250px;
+  line-height: 1.11;
 }
 
 @media screen and (min-width: 428px) {
