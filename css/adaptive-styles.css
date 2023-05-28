@@ -1180,16 +1180,6 @@ background-position: center;
   gap: 16px;
 }
 
-@media screen and (max-width: 427px) {
-  .sm-footer-mobile {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: flex-start;
-    column-gap: 56px;
-    row-gap: 16px;
-  }
-  }
-
 @media screen and (max-width: 767px) {
 .sm-footer-mobile {
   display: flex;
